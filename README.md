@@ -29,3 +29,5 @@ npm run dev
 ```
 
 Open [http://localhost:8080](http://localhost:8080) to verify that the server is running and the sample data was loaded.
+
+Next, initialize the connected [Frontend](https://github.com/kihno/nooro-tasks-frontend).
