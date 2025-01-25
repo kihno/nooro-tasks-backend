@@ -1,0 +1,7 @@
+POST http://localhost:8080/tasks
+Content-Type: application/json
+
+{
+  "title": "Take out the trash",
+  "color": "blue"
+}
